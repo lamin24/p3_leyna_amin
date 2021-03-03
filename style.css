@@ -7,14 +7,14 @@ li {
   display: inline;
 }
 #menu {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", times, serif;
 }
 a {
   color: #692cf5;
   text-decoration: none;
 }
 body {
-  background-image: url('neonflames.png');
+  background-image: url('website background.png');
   color: #692cf5;
 }
 * {
