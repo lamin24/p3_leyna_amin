@@ -14,7 +14,7 @@ a {
   text-decoration: none;
 }
 body {
-  background-image: url'neonflames.png';
+  background-image: url('neonflames.png');
   color: #692cf5;
 }
 * {
